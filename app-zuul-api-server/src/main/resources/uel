@@ -1,0 +1,10 @@
+http://192.168.0.105:8765/currency-conversion-service/currency-converter/from/EUR/to/INR/quantity/20
+
+http://192.168.0.105:8765/currency-exchange-service/currency-exchange/from/EUR/to/INR
+
+
+export RABBIT_URI=amqp://localhost:5672/
+
+http://localhost:8080/actuator/refresh
+
+http://localhost:8080/actuator/bus-refresh

@@ -1,1 +1,4 @@
 mvn spring-boot:run -Dspring-boot.run.arguments=--server.port=8085
+
+export RABBIT_URI=amqp://localhost:5672
+java -jar zipkin.jar 
