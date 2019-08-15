@@ -1,4 +1,4 @@
-package com.mindtree.app.springboot.appzuulapiserver;
+package com.blacksystems.app.springboot.appzuulapiserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

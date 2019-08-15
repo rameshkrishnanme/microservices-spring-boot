@@ -1,4 +1,4 @@
-package com.mindtree.app.springboot.appzuulapiserver;
+package com.blacksystems.app.springboot.appzuulapiserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

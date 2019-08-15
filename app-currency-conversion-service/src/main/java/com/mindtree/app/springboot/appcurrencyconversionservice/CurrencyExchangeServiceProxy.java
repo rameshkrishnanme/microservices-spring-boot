@@ -1,4 +1,4 @@
-package com.mindtree.app.springboot.appcurrencyconversionservice;
+package com.blacksystems.app.springboot.appcurrencyconversionservice;
 
 import org.springframework.cloud.netflix.ribbon.RibbonClient;
 import org.springframework.cloud.openfeign.FeignClient;

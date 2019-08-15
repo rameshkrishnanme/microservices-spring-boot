@@ -8,7 +8,7 @@
 		<version>2.1.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.mindtree.app.springboot</groupId>
+	<groupId>com.blacksystems.app.springboot</groupId>
 	<artifactId>app-zuul-api-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>app-zuul-api-server</name>

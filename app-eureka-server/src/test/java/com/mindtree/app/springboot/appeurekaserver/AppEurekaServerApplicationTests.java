@@ -1,4 +1,4 @@
-package com.mindtree.app.springboot.appeurekaserver;
+package com.blacksystems.app.springboot.appeurekaserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

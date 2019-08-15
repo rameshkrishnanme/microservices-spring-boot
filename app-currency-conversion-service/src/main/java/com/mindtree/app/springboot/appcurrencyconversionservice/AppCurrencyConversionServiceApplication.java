@@ -1,4 +1,4 @@
-package com.mindtree.app.springboot.appcurrencyconversionservice;
+package com.blacksystems.app.springboot.appcurrencyconversionservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 import brave.sampler.Sampler;
 
 @SpringBootApplication
-@EnableFeignClients("com.mindtree.app.springboot.appcurrencyconversionservice")
+@EnableFeignClients("com.blacksystems.app.springboot.appcurrencyconversionservice")
 @EnableDiscoveryClient
 public class AppCurrencyConversionServiceApplication {
 

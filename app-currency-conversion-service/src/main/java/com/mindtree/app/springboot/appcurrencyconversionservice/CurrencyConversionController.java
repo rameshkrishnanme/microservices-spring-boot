@@ -1,4 +1,4 @@
-package com.mindtree.app.springboot.appcurrencyconversionservice;
+package com.blacksystems.app.springboot.appcurrencyconversionservice;
 
 import java.math.BigDecimal;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package com.mindtree.app.springboot.appspringcloud;
+package com.blacksystems.app.springboot.appspringcloud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

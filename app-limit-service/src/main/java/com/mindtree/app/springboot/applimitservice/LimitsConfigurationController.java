@@ -1,4 +1,4 @@
-package com.mindtree.app.springboot.applimitservice;
+package com.blacksystems.app.springboot.applimitservice;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

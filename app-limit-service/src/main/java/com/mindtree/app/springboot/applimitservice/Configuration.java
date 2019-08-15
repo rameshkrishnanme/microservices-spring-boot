@@ -1,4 +1,4 @@
-package com.mindtree.app.springboot.applimitservice;
+package com.blacksystems.app.springboot.applimitservice;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;

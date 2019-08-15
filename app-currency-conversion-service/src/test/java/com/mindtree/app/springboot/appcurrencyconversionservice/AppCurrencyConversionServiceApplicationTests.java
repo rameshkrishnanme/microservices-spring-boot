@@ -1,4 +1,4 @@
-package com.mindtree.app.springboot.appcurrencyconversionservice;
+package com.blacksystems.app.springboot.appcurrencyconversionservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

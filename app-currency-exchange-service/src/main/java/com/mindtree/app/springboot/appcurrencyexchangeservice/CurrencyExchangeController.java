@@ -1,4 +1,4 @@
-package com.mindtree.app.springboot.appcurrencyexchangeservice;
+package com.blacksystems.app.springboot.appcurrencyexchangeservice;
 
 import java.math.BigDecimal;
 

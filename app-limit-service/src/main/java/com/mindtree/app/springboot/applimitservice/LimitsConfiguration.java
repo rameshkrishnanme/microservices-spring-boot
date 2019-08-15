@@ -1,4 +1,4 @@
-package com.mindtree.app.springboot.applimitservice;
+package com.blacksystems.app.springboot.applimitservice;
 
 public class LimitsConfiguration {
 
